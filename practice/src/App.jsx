@@ -1,12 +1,37 @@
 import React from 'react'
-import Liastrendering from './component/Liastrendering'
+import Uidesighn from './component/uidesighn'
 const App = () => {
   return (
     <div>
-      <Liastrendering/>
+      <Uidesighn/>
     </div>
   )
 }
 
 export default App
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// import React from 'react'
+// import Liastrendering from './component/Liastrendering'
+// const App = () => {
+//   return (
+//     <div>
+//       <Liastrendering/>
+//     </div>
+//   )
+// }
+
+// export default App
 
